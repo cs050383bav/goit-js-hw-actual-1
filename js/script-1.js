@@ -1,2 +1,2 @@
-const a = 'змнна a в script-2.js';
-console.log(a);
+const a = 'змінна a в script-2.js';
+console.log('змінна a в script-2.js');
